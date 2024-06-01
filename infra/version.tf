@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "cloud_republic"
     workspaces {
-      name = "value"
+      name = "ViMoore"
     }
   }
 }
